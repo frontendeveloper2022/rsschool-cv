@@ -25,3 +25,7 @@
 * Agile
 * Time management
 * Attention to details
+
+## Languages:
+* English - B1
+* Russian - native
